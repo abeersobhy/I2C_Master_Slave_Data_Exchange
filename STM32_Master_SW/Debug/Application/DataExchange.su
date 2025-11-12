@@ -1,0 +1,2 @@
+../Application/DataExchange.c:10:6:Init_DataExchange	64	static
+../Application/DataExchange.c:34:6:Start_DataExchange	32	static

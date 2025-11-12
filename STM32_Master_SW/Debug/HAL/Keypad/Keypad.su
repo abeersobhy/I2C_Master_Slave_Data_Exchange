@@ -1,0 +1,2 @@
+../HAL/Keypad/Keypad.c:14:6:Keypad_Init	16	static
+../HAL/Keypad/Keypad.c:72:9:Keypad_Read	16	static
