@@ -29,7 +29,7 @@ The system reads numbers from a **Keypad**, sends them via **I2C** from Master t
 
 ---
 ## 🗂 Documentation
-- **Video Demo:** [Watch on YouTube](https://youtube.com/shorts/wDLSWWPtJMo?feature=share)
+- **Video Demo:** [Watch on YouTube](https://youtube.com/shorts/zCzk297x4xI?feature=share)
 
 - **🖼️ Take a Quick look** 
 <p align="right">
