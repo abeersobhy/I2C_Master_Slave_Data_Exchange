@@ -4,7 +4,7 @@
 This project demonstrates a **practical I2C communication** between an STM32F103C8T6 (Master) and an Arduino Uno (Slave).  
 The system reads numbers from a **Keypad**, sends them via **I2C** from Master to Slave, and receives a response message indicating whether the input is valid. The Master displays the input and the response on an **LCD**.
 
-This project is designed for learning and testing **I2C Master-Slave communication** in embedded systems and can be expanded to control other devices using I2C.
+"This project is designed for learning and testing **I2C Master-Slave communication** in embedded systems and can be expanded to control other devices using I2C."
 
 ---
 
@@ -35,10 +35,10 @@ This project is designed for learning and testing **I2C Master-Slave communicati
 <p align="right">
   <img src="Doc/Pic.png" width="550" alt="Data Transfer">
 </p>
-
 <p align="left">
   <img src="Doc/Arduino_Data.png" width="550" alt="Data Transfer">
 </p>
+
 ---
 
 ## 🔧 Hardware Required
